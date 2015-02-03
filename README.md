@@ -1,7 +1,9 @@
 # DSProject
 Twitter Bot &amp; Feminism 
 
-http://localhost:8888/notebooks/Documents/la-dat-05/hw/hw03/Twitterdrafts.ipynb
+http://localhost:8888/notebooks/Documents/TwitterBotFinal.ipynb
+
+http://localhost:8888/notebooks/Documents/TweetAnalysisNLTK.ipynb
 
 http://nlp.stanford.edu/software/corenlp.shtml 
 
