@@ -39,4 +39,8 @@ class CustomStreamListener(tweepy.StreamListener):
 
 #Calls on StreamListerner and provides specifications of tracking
 l = tweepy.streaming.Stream(auth, CustomStreamListener(api))
+<<<<<<< HEAD
 l.filter(track=['feminism, feminist'], languages =['en'])
+=======
+l.filter(track=['feminism, feminist'], languages =['en'])
+>>>>>>> be606a9086c89a0ce30d08474a39171963884b80
