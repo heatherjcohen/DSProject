@@ -2,6 +2,7 @@
 Twitter Bot &amp; Feminism 
 
 
-http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
+PowerPoint Presentation for NonTechnical Audience: https://drive.google.com/file/d/0B9fl0GCoOvCMNkVsbU9tSWtRMG8/view?usp=sharing
 
-http://www.nohomophobes.com/#!/today/
+Technical Report :
+https://docs.google.com/document/d/1035Cd8a2u07_LRBwYkztfbOyL7dEb7zRnyu2jnv4k_4/edit?usp=sharing
