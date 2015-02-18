@@ -2,7 +2,7 @@
 Twitter Bot &amp; Feminism 
 by Heather Cohen
 
-Presentations: 
+#Presentations: 
 Non-Technical TED Style Presentation: 
 https://github.com/heatherjcohen/DSProject/blob/master/Final%20Presentations/TwitterandFeminismNonTechnical.pdf
 
@@ -14,11 +14,10 @@ https://github.com/heatherjcohen/DSProject/blob/master/Final%20Presentations/Twi
 Bonus: Buzzfeed on Results and Non Technical Discussion:
 http://www.buzzfeed.com/hjcohen/twitter-and-feminism-or-this-is-why-we-cant-hav-1c3dk
 
-Code in iPython Notebooks:
-Twitter Streamer:
+#Twitter Streamer:
 https://github.com/heatherjcohen/DSProject/blob/master/IPython%20Notebooks/TwitterBotFinal.ipynb
 
-Data Processing: 
+#Data Processing: 
 Sklearn Supervised Learning Naive-Bayes and Logistical Regression:
 https://github.com/heatherjcohen/DSProject/blob/master/IPython%20Notebooks/TwitterSemiSupervised.ipynb
 
