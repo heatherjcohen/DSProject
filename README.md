@@ -10,3 +10,6 @@ https://github.com/heatherjcohen/DSProject/blob/master/TwitterandFeminismPilotSt
 
 Technical Report: 
 https://github.com/heatherjcohen/DSProject/blob/master/TwitterAndFeminismTechnicalReport.pdf
+
+Bonus: Buzzfeed on Results and Non Technical Discussion:
+http://www.buzzfeed.com/hjcohen/twitter-and-feminism-or-this-is-why-we-cant-hav-1c3dk
