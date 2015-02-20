@@ -1,6 +1,12 @@
 # Data Science General Assembly Los Angeles 2015 Final Project
 Twitter Bot &amp; Feminism 
 by Heather Cohen
+#Contact
+CV
+https://github.com/heatherjcohen/DSProject/blob/master/HeatherCohenCV2015.pdf
+
+Letter of Recommendation
+https://github.com/heatherjcohen/DSProject/blob/master/Heather_rec.pdf
 
 #Presentations: 
 Non-Technical TED Style Presentation: 
